@@ -13,12 +13,12 @@
 
     <!-- Right -->
     <div>
-		<a href="" class="me-4 text-decoration-none " target="_blank">
+		<a href="https://www.facebook.com/valedostrilhos" class="me-4 text-decoration-none " target="_blank">
 			<span style="font-size: 25px;">
 				<i class="fab fa-facebook-square"></i>
 			</span>      
 		</a>
-		<a href="" class="me-4 text-decoration-none" target="_blank">
+		<a href="https://www.instagram.com/valedostrilhos" class="me-4 text-decoration-none" target="_blank">
 			<span style="font-size: 25px;">
 				<i class="fab fa-instagram"></i>
 			</span>
