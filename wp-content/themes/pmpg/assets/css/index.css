@@ -1,0 +1,48 @@
+
+#logo{
+    width: 85%;
+}
+#card-content{
+    width: 18rem;
+}
+@media(max-width: 540px){
+    #topo{
+        font-size: 0.6rem;
+    }
+    #logo{
+        width: 19rem;
+        height: 7rem;
+    }
+    #form-buscar{
+        visibility: hidden;
+       display: none;
+    }
+    .material-icons{
+        font-size: 1.8em;
+    }
+    #tabs{
+        font-size: 0.8rem;
+    }
+    #footer{
+        font-size: 0.6rem;
+    }
+    #card-content{
+        width: 14rem;
+        justify-content: center;
+    }
+}
+@media(max-width: 370px){
+    #topo{
+        font-size: 0.5rem;
+    }
+    #logo{
+        width: 16rem;
+        height: 5rem;
+    }
+    .material-icons{
+        font-size: 1.8em;
+    }
+    #tabs{
+        font-size: 0.6rem;
+    }
+}
