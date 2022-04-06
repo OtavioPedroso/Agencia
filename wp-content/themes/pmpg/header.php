@@ -123,9 +123,6 @@
         </div>
     </div>
     <nav class="navbar navbar-expand-lg bg-primary">
-          <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-              <span class="navbar-toggler-icon"></span>
-          </button>
           <div class="container justify-content-center">
               <div class="navbar-nav fs-4">
                   <a href="<?php echo site_url(); ?>/#inicio" class="nav-item nav-link text-decoration-none pe-2">Início</a>

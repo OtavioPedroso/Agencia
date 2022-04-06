@@ -10,8 +10,7 @@
         font-size: 0.6rem;
     }
     #logo{
-        width: 19rem;
-        height: 7rem;
+        width: 85%;
     }
     #form-buscar{
         visibility: hidden;
@@ -36,8 +35,7 @@
         font-size: 0.5rem;
     }
     #logo{
-        width: 16rem;
-        height: 5rem;
+        width: 80%;
     }
     .material-icons{
         font-size: 1.8em;

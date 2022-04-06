@@ -111,6 +111,7 @@ h4, .h4 {
   }
 }
 
+
 h5, .h5 {
   font-size: 1.25rem;
 }
@@ -4010,8 +4011,8 @@ textarea.form-control-lg {
 
 .navbar-toggler-icon {
   display: inline-block;
-  width: 1.5em;
-  height: 1.5em;
+  width: 1.4em;
+  height: 1.4em;
   vertical-align: middle;
   background-repeat: no-repeat;
   background-position: center;
@@ -4198,7 +4199,7 @@ textarea.form-control-lg {
   color: rgba(0, 0, 0, 0.9);
 }
 .navbar-light .navbar-toggler {
-  color: rgba(0, 0, 0, 0.55);
+  color: rgba(0, 0, 0, 0.05);
   border-color: rgba(0, 0, 0, 0.1);
 }
 .navbar-light .navbar-toggler-icon {
@@ -4839,7 +4840,7 @@ textarea.form-control-lg {
   padding: 0.5rem 1rem;
   color: #212529;
   text-decoration: none;
-  background-color: #fff;
+  background-color: white;
   border: 1px solid rgba(0, 0, 0, 0.125);
 }
 .list-group-item:first-child {
